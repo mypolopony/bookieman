@@ -1,0 +1,2 @@
+# Credentials
+API_KEY = '3adc4d7a0f028e9d6a00692b3fea4329:16:65616893'
