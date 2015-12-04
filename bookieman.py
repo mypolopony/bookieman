@@ -1,17 +1,18 @@
 #!/usr/bin/env python
 #
-# Title          : bookieman.py
-# description    : Lets investigate some books!
+# title          : bookieman.py
+# description    : Lets trend some books!
 # author         : Selwyn-Lloyd McPherson
-# date           : 20151111
+# date           : Fri Dec  4 02:00:54 PST 2015
 # version        : 1.20
-# python_version : 3.5.0
-# ================================================================
+# python_version : 3.5.0 (it's the hot new thing)
+# ==========================================================
 
 # "Under popular culture's obsession with a naive inclusion, 
 # everything is O.K."
 #
 # -Stanley Crouch
+
 
 from datetime import date, timedelta   # standard date module
 import time             # standard time interface
@@ -31,12 +32,13 @@ logging.basicConfig(filename='bookieman.log',level=logging.INFO)
 
 # Hello, I'm a book! 
 class Book():
-    def __init__(self,isbn,title,url):
+    def __init__(self,isbn,author,title,description,url):
         self.isbn = isbn
         self.title = title
         self.url = url
+        self.author = author
+        self.description = description
 
-        self.words = set()
 
 # Hello, I'm a NYT list!
 class List():
@@ -75,7 +77,7 @@ def get_weeks(start_date, end_date):
 
 def run():
     # Grab the list of list names
-    uri = 'http://api.nytimes.com/svc/books/v3/lists/names.json?api-key={key}'.format(key=credentials.API_KEY)
+    uri = 'http://api.nytimes.com/svc/books/v3/lists/names.json?api-key={key}'.format(key=credentials.NYT_API_KEY)
     response = json.loads(requests.get(uri).text)
     names = [r['list_name_encoded'] for r in response['results']]
     for idx,n in enumerate(names):
@@ -83,53 +85,97 @@ def run():
         logging.info('{i}\t{name}'.format(i=idx,name=names[idx]))
 
 
-    # Choose a list, or several
-    # Yeah, there are a lot of lists
-    # Hmmm. NOT SURW!!! ['list_name']['date'] = [books]
-    # lists = {'listname':[]}
-    
-    # Select a list or two here
-    list_names = ['combined-print-fiction','paperback-business-books']
-    lists = dict()
-    for ln in list_names:
-        logging.info('Working with:\t{list}'.format(list=ln))
-        lists[ln] = list()
+    # Choose a list!
+    list_name = 'combined-print-fiction'
+    logging.info('Working with:\t{list}'.format(list=list_name))
 
     # Pick a date range
-    start_date = [2011,1,1]     # example for the year 2011
+    start_date = [2011,1,1]                 # example for the year 2011
     end_date = [2011,12,31]
     weeks = get_weeks(start_date, end_date) # get evenly spaced weeks
 
-    # Set up lists
-    lists = list()      # isn't it ironic?}
+    # Set up the library of books, indexable by ISBN
+    bookshelf = dict()
+    timeline = dict()
 
-    for n in list_names:
-        for w in weeks:
-            w = w.strftime('%Y-%m-%d')      # string formatting
-            uri = 'http://api.nytimes.com/svc/books/v3/lists/{name}.json?date-{date}&api-key={key}'.format(date=w,name=n,key=credentials.API_KEY)
-            response = json.loads(requests.get(uri).text)
-            if len(response['results']):
-                for book in enumerate(response['results']['books']):
-                    book = book[1]      # Response is a weird tuple with rank as the first element
+    for week in weeks:
+        week = week.strftime('%Y-%m-%d')      # string formatting
+        timeline[week] = list()
+        
+        uri = 'http://api.nytimes.com/svc/books/v3/lists/{name}.json?date-{date}&api-key={key}'.format(date=week,name=list_name,key=credentials.NYT_API_KEY)
+        response = json.loads(requests.get(uri).text)
+        
+        if len(response['results']):
+            # Odd initialization, but I like it!
+            num_books = len(response['results']['books'])
+            timeline[week] = [None] * num_books
+            
+            for book in enumerate(response['results']['books']):
+                book = book[1]      # Response is a weird tuple with rank as the first element
+                
+                # Check ISBN first for efficiency
+                isbn = book['primary_isbn13']
+                logging.info('ISBN: {i}'.format(i=isbn))
+                
+                if isbn in bookshelf.keys():
+                    b = bookshelf[isbn]
+                    print('Found')
                     
+                else:
+                    print('New')
+                    # This is the kind of serialization that is really gross, but easy to pull off
                     rank = book['rank']
                     logging.info('Ranking: {r}'.format(r=rank))
-
+    
                     title = book['title']
                     logging.info('Title: {t}'.format(t=title))
-
-                    isbn = book['primary_isbn13']
-                    logging.info('ISBN: {i}'.format(i=isbn))
-
+                    
+                    author = book['author']
+                    logging.info('Author: {a}'.format(a=author))
+                    
+                    description = book['description'][:-1]  # weird marks at the end
+    
                     amazon_url = book['amazon_product_url']
                     logging.info('Amazon URL: {a}'.format(a=amazon_url))
+                    
+                    b = Book(isbn,author,title,description,uri)
+                    bookshelf[isbn] = b
+                    
+                
+                # The -1 is necessary, because 1 != 0
+                timeline[week][rank-1] = b
+                
+                logging.info('-------')
+                print('-----------')
+                
+                # Depending on the time period, this should be fine in menory,
+                # but of course we can write to a file if necessary. . .
+                
+                # Courtesy
+                time.sleep(.2)
+                    
+    # Now we have a dictionary, keyed by week, and books on the best seller list 
+    # on that week
+    #
+    # We were given the Amazon link
+    # 
+    # There are some different solutions here. The first is to use the
+    # requests module and manipulate the H/XTML response for each URI. That's a 
+    # bit messy, but certainly reliable in the short term.
+    #
+    # One might think, use the Amazon API! But most people have learned the 
+    # hard way that it is clunky and a bit too much.
+    #
+    # I prefer Google. Enable the Books API at [console.developers.google.com]
+    
+    
+    
+    
+    
+    
+    
 
-                    b = Book(isbn,title,uri)
-                    logging.info('-------')
-                    time.sleep(.2)
-                    print('{}: {}'.format(w,title))
-
-
+  
 if __name__ == '__main__':
     run()
 
