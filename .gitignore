@@ -1,0 +1,8 @@
+bookieman.log
+credentials.py
+
+*.pyc
+.project
+.pydevproject
+
+env/
