@@ -87,6 +87,8 @@ def run():
     # Yeah, there are a lot of lists
     # Hmmm. NOT SURW!!! ['list_name']['date'] = [books]
     # lists = {'listname':[]}
+    
+    # Select a list or two here
     list_names = ['combined-print-fiction','paperback-business-books']
     lists = dict()
     for ln in list_names:
@@ -100,38 +102,36 @@ def run():
 
     # Set up lists
     lists = list()      # isn't it ironic?
-                        # the stucture is lists = {'listname1': {wk: [.}
+                        # the structure is a list = {'listname1': {wk: [.}
 
     for n in list_names:
         for w in weeks:
             w = w.strftime('%Y-%m-%d')      # string formatting
-            uri = 'http://api.nytimes.com/svc/books/v2/lists/{date}/{name}.json?api-key={key}'.format(date=w,name=n,key=credentials.API_KEY)
+            uri = 'http://api.nytimes.com/svc/books/v3/lists/{name}.json?date-{date}&api-key={key}'.format(date=w,name=n,key=credentials.API_KEY)
             response = json.loads(requests.get(uri).text)
             if len(response['results']):
-                for ranking,r in enumerate(response['results']):
-                    logging.info('Ranking: {r}'.format(r=ranking))
+                for book in enumerate(response['results']['books']):
+                    book = book[1]      # Response is a weird tuple with rank as the first element
+                    
+                    rank = book['rank']
+                    logging.info('Ranking: {r}'.format(r=rank))
 
-                    date = response['results'][ranking]['bestsellers_date']
-                    logging.info('Date: {d}'.format(d=date))
-
-                    list_name = response['results'][ranking]['list_name']
-                    logging.info('List: {l}'.format(l=list_name))
-
-                    title = response['results'][ranking]['book_details'][0]['title']
+                    title = book['title']
                     logging.info('Title: {t}'.format(t=title))
 
-                    isbn = response['results'][ranking]['book_details'][0]['primary_isbn13']
+                    isbn = book['primary_isbn13']
                     logging.info('ISBN: {i}'.format(i=isbn))
 
-                    amazon_url = response['results'][ranking]['book_details'][0]['amazon_product_url']
+                    amazon_url = book['amazon_product_url']
                     logging.info('Amazon URL: {a}'.format(a=amazon_url))
 
-                    b = Book(isbn,title,url)
+                    b = Book(isbn,title,uri)
                     logging.info('-------')
                     time.sleep(.2)
+                    print('{}: {}'.format(w,title))
 
 
-if __name__ = '__main__':
+if __name__ == '__main__':
     run()
 
 

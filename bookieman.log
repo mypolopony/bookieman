@@ -9088,3 +9088,2035 @@ INFO:root:Title: WINTER GARDEN
 INFO:root:ISBN: 9780312663155
 INFO:root:Amazon URL: http://www.amazon.com/Winter-Garden-Kristin-Hannah/dp/0312364121?tag=thenewyorktim-20
 INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 0
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: TICK TOCK
+INFO:root:ISBN: 9780316037914
+INFO:root:Amazon URL: http://www.amazon.com/Tick-Tock-Michael-Bennett-Book-ebook/dp/B0047Y16MG?tag=thenewyorktim-20
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 0
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: TICK TOCK
+INFO:root:ISBN: 9780316037914
+INFO:root:Amazon URL: http://www.amazon.com/Tick-Tock-Michael-Bennett-Book-ebook/dp/B0047Y16MG?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 1
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: THE GIRL WITH THE DRAGON TATTOO
+INFO:root:ISBN: 9780307454546
+INFO:root:Amazon URL: http://www.amazon.com/Girl-Dragon-Tattoo-Stieg-Larsson/dp/0307269752?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: THE GIRL WHO PLAYED WITH FIRE
+INFO:root:ISBN: 9780307454553
+INFO:root:Amazon URL: http://www.amazon.com/Girl-Played-Fire-Millennium-Trilogy/dp/0307476154?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:ISBN: 9780307269997
+INFO:root:Amazon URL: http://www.amazon.com/Girl-Kicked-Hornets-Millennium-Trilogy/dp/030726999X?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: MARRYING DAISY BELLAMY
+INFO:root:ISBN: 9780778329251
+INFO:root:Amazon URL: http://www.amazon.com/Marrying-Daisy-Bellamy-Lakeshore-Chronicles/dp/0778329259?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Date: 2011-01-30
+INFO:root:List: Combined Print Fiction
+INFO:root:Title: WILD MAN CREEK
+INFO:root:ISBN: 9780778329312
+INFO:root:Amazon URL: http://www.amazon.com/Wild-Creek-Virgin-River-Book/dp/0778329313?tag=thenewyorktim-20
+INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 0
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Available lists:
+INFO:root:0	combined-print-and-e-book-fiction
+INFO:root:Available lists:
+INFO:root:1	combined-print-and-e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:2	hardcover-fiction
+INFO:root:Available lists:
+INFO:root:3	hardcover-nonfiction
+INFO:root:Available lists:
+INFO:root:4	trade-fiction-paperback
+INFO:root:Available lists:
+INFO:root:5	mass-market-paperback
+INFO:root:Available lists:
+INFO:root:6	paperback-nonfiction
+INFO:root:Available lists:
+INFO:root:7	e-book-fiction
+INFO:root:Available lists:
+INFO:root:8	e-book-nonfiction
+INFO:root:Available lists:
+INFO:root:9	hardcover-advice
+INFO:root:Available lists:
+INFO:root:10	paperback-advice
+INFO:root:Available lists:
+INFO:root:11	advice-how-to-and-miscellaneous
+INFO:root:Available lists:
+INFO:root:12	picture-books
+INFO:root:Available lists:
+INFO:root:13	chapter-books
+INFO:root:Available lists:
+INFO:root:14	childrens-middle-grade
+INFO:root:Available lists:
+INFO:root:15	young-adult
+INFO:root:Available lists:
+INFO:root:16	paperback-books
+INFO:root:Available lists:
+INFO:root:17	childrens-middle-grade-hardcover
+INFO:root:Available lists:
+INFO:root:18	childrens-middle-grade-paperback
+INFO:root:Available lists:
+INFO:root:19	childrens-middle-grade-e-book
+INFO:root:Available lists:
+INFO:root:20	young-adult-hardcover
+INFO:root:Available lists:
+INFO:root:21	young-adult-paperback
+INFO:root:Available lists:
+INFO:root:22	young-adult-e-book
+INFO:root:Available lists:
+INFO:root:23	series-books
+INFO:root:Available lists:
+INFO:root:24	hardcover-graphic-books
+INFO:root:Available lists:
+INFO:root:25	paperback-graphic-books
+INFO:root:Available lists:
+INFO:root:26	manga
+INFO:root:Available lists:
+INFO:root:27	combined-print-fiction
+INFO:root:Available lists:
+INFO:root:28	combined-print-nonfiction
+INFO:root:Available lists:
+INFO:root:29	animals
+INFO:root:Available lists:
+INFO:root:30	business-books
+INFO:root:Available lists:
+INFO:root:31	celebrities
+INFO:root:Available lists:
+INFO:root:32	crime-and-punishment
+INFO:root:Available lists:
+INFO:root:33	culture
+INFO:root:Available lists:
+INFO:root:34	education
+INFO:root:Available lists:
+INFO:root:35	espionage
+INFO:root:Available lists:
+INFO:root:36	expeditions-disasters-and-adventures
+INFO:root:Available lists:
+INFO:root:37	family
+INFO:root:Available lists:
+INFO:root:38	fashion-manners-and-customs
+INFO:root:Available lists:
+INFO:root:39	food-and-fitness
+INFO:root:Available lists:
+INFO:root:40	games-and-activities
+INFO:root:Available lists:
+INFO:root:41	hardcover-business-books
+INFO:root:Available lists:
+INFO:root:42	health
+INFO:root:Available lists:
+INFO:root:43	humor
+INFO:root:Available lists:
+INFO:root:44	indigenous-americans
+INFO:root:Available lists:
+INFO:root:45	paperback-business-books
+INFO:root:Available lists:
+INFO:root:46	hardcover-political-books
+INFO:root:Available lists:
+INFO:root:47	race-and-civil-rights
+INFO:root:Available lists:
+INFO:root:48	relationships
+INFO:root:Available lists:
+INFO:root:49	religion-spirituality-and-faith
+INFO:root:Available lists:
+INFO:root:50	science
+INFO:root:Available lists:
+INFO:root:51	sports
+INFO:root:Available lists:
+INFO:root:52	travel
+INFO:root:Working with:	combined-print-fiction
+INFO:root:Working with:	paperback-business-books
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 1
+INFO:root:Title: THE HIT
+INFO:root:ISBN: 9781455521210
+INFO:root:Amazon URL: http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Title: WHISKEY BEACH
+INFO:root:ISBN: 9780399159893
+INFO:root:Amazon URL: http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Title: FLY AWAY
+INFO:root:ISBN: 9780312577216
+INFO:root:Amazon URL: http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Title: PARIS
+INFO:root:ISBN: 9780385535304
+INFO:root:Amazon URL: http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Title: LIFE AFTER LIFE
+INFO:root:ISBN: 9780316176484
+INFO:root:Amazon URL: http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 6
+INFO:root:Title: BEAUTIFUL RUINS
+INFO:root:ISBN: 9780061928178
+INFO:root:Amazon URL: http://www.amazon.com/Beautiful-Ruins-Novel-Jess-Walter/dp/0061928178?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 7
+INFO:root:Title: WEDDING NIGHT
+INFO:root:ISBN: 9780812993844
+INFO:root:Amazon URL: http://www.amazon.com/Wedding-Night-Novel-Sophie-Kinsella-ebook/dp/B009MYARIK?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 8
+INFO:root:Title: DADDY'S GONE A HUNTING
+INFO:root:ISBN: 9781451668940
+INFO:root:Amazon URL: http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 9
+INFO:root:Title: GONE GIRL
+INFO:root:ISBN: 9780307588364
+INFO:root:Amazon URL: http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 10
+INFO:root:Title: THE BEST OF ME
+INFO:root:ISBN: 9780446547635
+INFO:root:Amazon URL: http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547646?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 11
+INFO:root:Title: A GAME OF THRONES
+INFO:root:ISBN: 9780553573404
+INFO:root:Amazon URL: http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 12
+INFO:root:Title: WORLD WAR Z
+INFO:root:ISBN: 9780307346612
+INFO:root:Amazon URL: http://www.amazon.com/World-Market-Movie-Tie-In-Edition/dp/0770437400?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 13
+INFO:root:Title: FIFTY SHADES OF GREY
+INFO:root:ISBN: 9780345803481
+INFO:root:Amazon URL: http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 14
+INFO:root:Title: THE BLACK BOX
+INFO:root:ISBN: 9781455526956
+INFO:root:Amazon URL: http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B0076DELIG?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 15
+INFO:root:Title: THE BURGESS BOYS
+INFO:root:ISBN: 9781400067688
+INFO:root:Amazon URL: http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 16
+INFO:root:Title: THE MYSTERY WOMAN
+INFO:root:ISBN: 9780399159091
+INFO:root:Amazon URL: http://www.amazon.com/Mystery-Woman-Ladies-Lantern-Street/dp/0515154210?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 17
+INFO:root:Title: DON'T GO
+INFO:root:ISBN: 9781250010070
+INFO:root:Amazon URL: http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 18
+INFO:root:Title: CALICO JOE
+INFO:root:ISBN: 9780345541338
+INFO:root:Amazon URL: http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 19
+INFO:root:Title: THE FORGOTTEN
+INFO:root:ISBN: 9781455523153
+INFO:root:Amazon URL: http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 20
+INFO:root:Title: THE INTERESTINGS
+INFO:root:ISBN: 9781594488399
+INFO:root:Amazon URL: http://www.amazon.com/The-Interestings-Novel-Meg-Wolitzer/dp/1594632340?tag=thenewyorktim-20
+INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 1
+INFO:root:Title: THE HIT
+INFO:root:ISBN: 9781455521210
+INFO:root:Amazon URL: http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Title: WHISKEY BEACH
+INFO:root:ISBN: 9780399159893
+INFO:root:Amazon URL: http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Title: FLY AWAY
+INFO:root:ISBN: 9780312577216
+INFO:root:Amazon URL: http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Title: PARIS
+INFO:root:ISBN: 9780385535304
+INFO:root:Amazon URL: http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Title: LIFE AFTER LIFE
+INFO:root:ISBN: 9780316176484
+INFO:root:Amazon URL: http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 6
+INFO:root:Title: BEAUTIFUL RUINS
+INFO:root:ISBN: 9780061928178
+INFO:root:Amazon URL: http://www.amazon.com/Beautiful-Ruins-Novel-Jess-Walter/dp/0061928178?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 7
+INFO:root:Title: WEDDING NIGHT
+INFO:root:ISBN: 9780812993844
+INFO:root:Amazon URL: http://www.amazon.com/Wedding-Night-Novel-Sophie-Kinsella-ebook/dp/B009MYARIK?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 8
+INFO:root:Title: DADDY'S GONE A HUNTING
+INFO:root:ISBN: 9781451668940
+INFO:root:Amazon URL: http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 9
+INFO:root:Title: GONE GIRL
+INFO:root:ISBN: 9780307588364
+INFO:root:Amazon URL: http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 10
+INFO:root:Title: THE BEST OF ME
+INFO:root:ISBN: 9780446547635
+INFO:root:Amazon URL: http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547646?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 11
+INFO:root:Title: A GAME OF THRONES
+INFO:root:ISBN: 9780553573404
+INFO:root:Amazon URL: http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 12
+INFO:root:Title: WORLD WAR Z
+INFO:root:ISBN: 9780307346612
+INFO:root:Amazon URL: http://www.amazon.com/World-Market-Movie-Tie-In-Edition/dp/0770437400?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 13
+INFO:root:Title: FIFTY SHADES OF GREY
+INFO:root:ISBN: 9780345803481
+INFO:root:Amazon URL: http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 14
+INFO:root:Title: THE BLACK BOX
+INFO:root:ISBN: 9781455526956
+INFO:root:Amazon URL: http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B0076DELIG?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 15
+INFO:root:Title: THE BURGESS BOYS
+INFO:root:ISBN: 9781400067688
+INFO:root:Amazon URL: http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 16
+INFO:root:Title: THE MYSTERY WOMAN
+INFO:root:ISBN: 9780399159091
+INFO:root:Amazon URL: http://www.amazon.com/Mystery-Woman-Ladies-Lantern-Street/dp/0515154210?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 17
+INFO:root:Title: DON'T GO
+INFO:root:ISBN: 9781250010070
+INFO:root:Amazon URL: http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 18
+INFO:root:Title: CALICO JOE
+INFO:root:ISBN: 9780345541338
+INFO:root:Amazon URL: http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 19
+INFO:root:Title: THE FORGOTTEN
+INFO:root:ISBN: 9781455523153
+INFO:root:Amazon URL: http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 20
+INFO:root:Title: THE INTERESTINGS
+INFO:root:ISBN: 9781594488399
+INFO:root:Amazon URL: http://www.amazon.com/The-Interestings-Novel-Meg-Wolitzer/dp/1594632340?tag=thenewyorktim-20
+INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 1
+INFO:root:Title: THE HIT
+INFO:root:ISBN: 9781455521210
+INFO:root:Amazon URL: http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Title: WHISKEY BEACH
+INFO:root:ISBN: 9780399159893
+INFO:root:Amazon URL: http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Title: FLY AWAY
+INFO:root:ISBN: 9780312577216
+INFO:root:Amazon URL: http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Title: PARIS
+INFO:root:ISBN: 9780385535304
+INFO:root:Amazon URL: http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Title: LIFE AFTER LIFE
+INFO:root:ISBN: 9780316176484
+INFO:root:Amazon URL: http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 6
+INFO:root:Title: BEAUTIFUL RUINS
+INFO:root:ISBN: 9780061928178
+INFO:root:Amazon URL: http://www.amazon.com/Beautiful-Ruins-Novel-Jess-Walter/dp/0061928178?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 7
+INFO:root:Title: WEDDING NIGHT
+INFO:root:ISBN: 9780812993844
+INFO:root:Amazon URL: http://www.amazon.com/Wedding-Night-Novel-Sophie-Kinsella-ebook/dp/B009MYARIK?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 8
+INFO:root:Title: DADDY'S GONE A HUNTING
+INFO:root:ISBN: 9781451668940
+INFO:root:Amazon URL: http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 9
+INFO:root:Title: GONE GIRL
+INFO:root:ISBN: 9780307588364
+INFO:root:Amazon URL: http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 10
+INFO:root:Title: THE BEST OF ME
+INFO:root:ISBN: 9780446547635
+INFO:root:Amazon URL: http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547646?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 11
+INFO:root:Title: A GAME OF THRONES
+INFO:root:ISBN: 9780553573404
+INFO:root:Amazon URL: http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 12
+INFO:root:Title: WORLD WAR Z
+INFO:root:ISBN: 9780307346612
+INFO:root:Amazon URL: http://www.amazon.com/World-Market-Movie-Tie-In-Edition/dp/0770437400?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 13
+INFO:root:Title: FIFTY SHADES OF GREY
+INFO:root:ISBN: 9780345803481
+INFO:root:Amazon URL: http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 14
+INFO:root:Title: THE BLACK BOX
+INFO:root:ISBN: 9781455526956
+INFO:root:Amazon URL: http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B0076DELIG?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 15
+INFO:root:Title: THE BURGESS BOYS
+INFO:root:ISBN: 9781400067688
+INFO:root:Amazon URL: http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 16
+INFO:root:Title: THE MYSTERY WOMAN
+INFO:root:ISBN: 9780399159091
+INFO:root:Amazon URL: http://www.amazon.com/Mystery-Woman-Ladies-Lantern-Street/dp/0515154210?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 17
+INFO:root:Title: DON'T GO
+INFO:root:ISBN: 9781250010070
+INFO:root:Amazon URL: http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 18
+INFO:root:Title: CALICO JOE
+INFO:root:ISBN: 9780345541338
+INFO:root:Amazon URL: http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 19
+INFO:root:Title: THE FORGOTTEN
+INFO:root:ISBN: 9781455523153
+INFO:root:Amazon URL: http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 20
+INFO:root:Title: THE INTERESTINGS
+INFO:root:ISBN: 9781594488399
+INFO:root:Amazon URL: http://www.amazon.com/The-Interestings-Novel-Meg-Wolitzer/dp/1594632340?tag=thenewyorktim-20
+INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 1
+INFO:root:Title: THE HIT
+INFO:root:ISBN: 9781455521210
+INFO:root:Amazon URL: http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Title: WHISKEY BEACH
+INFO:root:ISBN: 9780399159893
+INFO:root:Amazon URL: http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Title: FLY AWAY
+INFO:root:ISBN: 9780312577216
+INFO:root:Amazon URL: http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Title: PARIS
+INFO:root:ISBN: 9780385535304
+INFO:root:Amazon URL: http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Title: LIFE AFTER LIFE
+INFO:root:ISBN: 9780316176484
+INFO:root:Amazon URL: http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 6
+INFO:root:Title: BEAUTIFUL RUINS
+INFO:root:ISBN: 9780061928178
+INFO:root:Amazon URL: http://www.amazon.com/Beautiful-Ruins-Novel-Jess-Walter/dp/0061928178?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 7
+INFO:root:Title: WEDDING NIGHT
+INFO:root:ISBN: 9780812993844
+INFO:root:Amazon URL: http://www.amazon.com/Wedding-Night-Novel-Sophie-Kinsella-ebook/dp/B009MYARIK?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 8
+INFO:root:Title: DADDY'S GONE A HUNTING
+INFO:root:ISBN: 9781451668940
+INFO:root:Amazon URL: http://www.amazon.com/Daddys-Gone-Hunting-Higgins-Clark-ebook/dp/B009R659L8?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 9
+INFO:root:Title: GONE GIRL
+INFO:root:ISBN: 9780307588364
+INFO:root:Amazon URL: http://www.amazon.com/Gone-Girl-Novel-Gillian-Flynn-ebook/dp/B006LSZECO?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 10
+INFO:root:Title: THE BEST OF ME
+INFO:root:ISBN: 9780446547635
+INFO:root:Amazon URL: http://www.amazon.com/The-Best-Me-Nicholas-Sparks/dp/0446547646?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 11
+INFO:root:Title: A GAME OF THRONES
+INFO:root:ISBN: 9780553573404
+INFO:root:Amazon URL: http://www.amazon.com/Game-Thrones-Song-Fire-Book-ebook/dp/B000QCS8TW?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 12
+INFO:root:Title: WORLD WAR Z
+INFO:root:ISBN: 9780307346612
+INFO:root:Amazon URL: http://www.amazon.com/World-Market-Movie-Tie-In-Edition/dp/0770437400?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 13
+INFO:root:Title: FIFTY SHADES OF GREY
+INFO:root:ISBN: 9780345803481
+INFO:root:Amazon URL: http://www.amazon.com/Fifty-Shades-Grey-Book-Trilogy/dp/0345803485?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 14
+INFO:root:Title: THE BLACK BOX
+INFO:root:ISBN: 9781455526956
+INFO:root:Amazon URL: http://www.amazon.com/The-Black-Harry-Bosch-Novel-ebook/dp/B0076DELIG?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 15
+INFO:root:Title: THE BURGESS BOYS
+INFO:root:ISBN: 9781400067688
+INFO:root:Amazon URL: http://www.amazon.com/The-Burgess-Boys-A-Novel-ebook/dp/B009MYAWIA?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 16
+INFO:root:Title: THE MYSTERY WOMAN
+INFO:root:ISBN: 9780399159091
+INFO:root:Amazon URL: http://www.amazon.com/Mystery-Woman-Ladies-Lantern-Street/dp/0515154210?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 17
+INFO:root:Title: DON'T GO
+INFO:root:ISBN: 9781250010070
+INFO:root:Amazon URL: http://www.amazon.com/Dont-Go-Lisa-Scottoline-ebook/dp/B008BU6THE?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 18
+INFO:root:Title: CALICO JOE
+INFO:root:ISBN: 9780345541338
+INFO:root:Amazon URL: http://www.amazon.com/Calico-Joe-Novel-John-Grisham/dp/0345541332?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 19
+INFO:root:Title: THE FORGOTTEN
+INFO:root:ISBN: 9781455523153
+INFO:root:Amazon URL: http://www.amazon.com/The-Forgotten-David-Baldacci/dp/1455523151?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 20
+INFO:root:Title: THE INTERESTINGS
+INFO:root:ISBN: 9781594488399
+INFO:root:Amazon URL: http://www.amazon.com/The-Interestings-Novel-Meg-Wolitzer/dp/1594632340?tag=thenewyorktim-20
+INFO:root:-------
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.nytimes.com
+INFO:root:Ranking: 1
+INFO:root:Title: THE HIT
+INFO:root:ISBN: 9781455521210
+INFO:root:Amazon URL: http://www.amazon.com/The-Will-Robie-David-Baldacci/dp/1455521302?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 2
+INFO:root:Title: WHISKEY BEACH
+INFO:root:ISBN: 9780399159893
+INFO:root:Amazon URL: http://www.amazon.com/Whiskey-Beach-Nora-Roberts/dp/0399159894?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 3
+INFO:root:Title: FLY AWAY
+INFO:root:ISBN: 9780312577216
+INFO:root:Amazon URL: http://www.amazon.com/Fly-Away-Kristin-Hannah/dp/0312577214?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 4
+INFO:root:Title: PARIS
+INFO:root:ISBN: 9780385535304
+INFO:root:Amazon URL: http://www.amazon.com/Paris-The-Novel-Edward-Rutherfurd-ebook/dp/B009Y4I5N2?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 5
+INFO:root:Title: LIFE AFTER LIFE
+INFO:root:ISBN: 9780316176484
+INFO:root:Amazon URL: http://www.amazon.com/Life-After-A-Novel-ebook/dp/B008TUQ60G?tag=thenewyorktim-20
+INFO:root:-------
+INFO:root:Ranking: 6
+INFO:root:Title: BEAUTIFUL RUINS
+INFO:root:ISBN: 9780061928178
+INFO:root:Amazon URL: http://www.amazon.com/Beautiful-Ruins-Novel-Jess-Walter/dp/0061928178?tag=thenewyorktim-20
+INFO:root:-------
