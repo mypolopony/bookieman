@@ -101,8 +101,7 @@ def run():
     weeks = get_weeks(start_date, end_date) # get evenly spaced weeks
 
     # Set up lists
-    lists = list()      # isn't it ironic?
-                        # the structure is a list = {'listname1': {wk: [.}
+    lists = list()      # isn't it ironic?}
 
     for n in list_names:
         for w in weeks:
