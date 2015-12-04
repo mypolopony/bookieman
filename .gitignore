@@ -1,7 +1,7 @@
 bookieman.log
 credentials.py
 
-**/*.pyc
+*.pyc
 
 .project
 .pydevproject
